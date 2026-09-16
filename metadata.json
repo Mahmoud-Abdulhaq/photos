@@ -1,6 +1,6 @@
 {
   "name": "Photos",
-  "description": "A blank slate ready for development.",
+  "description": "Interactive Jujutsu Kaisen character gallery with comprehensive lore profiles, cursed techniques, domain expansions, and high-resolution portraits.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
